@@ -1,0 +1,17 @@
+# Xcode
+xcuserdata/
+DerivedData/
+build/
+
+# macOS
+.DS_Store
+Thumbs.db
+
+# 敏感配置（以防将来添加）
+*.env
+*.key
+*.p12
+*.cer
+*.mobileprovision
+Secrets/
+Credentials/
