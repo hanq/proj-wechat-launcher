@@ -24,11 +24,15 @@ macOS 上微信官方客户端只允许运行一个实例。一个微信号登�
 
 ## 快速开始
 
-### 方式一：直接运行
+### 直接下载
 
-在 [Releases](https://github.com/hanq/proj-wechat-launcher/releases) 下载最新版本，解压拖入 `/Applications`，双击运行。
+[![Release](https://img.shields.io/badge/release-v1.0.0-green?logo=github)](https://github.com/hanq/proj-wechat-launcher/releases/latest)
 
-### 方式二：从源码构建
+从 [Releases](https://github.com/hanq/proj-wechat-launcher/releases/latest) 下载 `微信启动器.zip`，解压拖入 `/Applications`，双击运行。
+
+> 首次运行时如被 Gatekeeper 拦截，请前往「系统设置 → 隐私与安全性」中放行。
+
+### 从源码构建
 
 ```bash
 git clone git@github.com:hanq/proj-wechat-launcher.git
